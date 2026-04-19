@@ -133,7 +133,7 @@ static const SceWChar16 *restart_text[N_LANG] = {
 	u"Перезагрузка",
 	u"재부팅",
 	u"重新啟動",
-	u"重新启動",
+	u"重新启动",
 	u"Käynnistä uudelleen",
 	u"Starta om",
 	u"Genstart",
