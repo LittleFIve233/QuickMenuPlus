@@ -398,6 +398,7 @@ USED int module_start(UNUSED SceSize args, UNUSED const void *argp) {
 		case 0xF476E785: // 3.71 retail
 		case 0x939FFBE9: // 3.72 retail
 		case 0x734D476A: // 3.73 retail
+		case 0x51CB6207: // 3.74 retail	
 			quick_menu_init += 0x14C460;
 			break;
 		case 0xEAB89D5C: // 3.60 testkit
